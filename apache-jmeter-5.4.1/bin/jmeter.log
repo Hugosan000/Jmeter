@@ -1,0 +1,22 @@
+2021-07-25 19:33:56,639 INFO o.a.j.u.JMeterUtils: Setting Locale to pt_BR
+2021-07-25 19:33:56,704 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2021-07-25 19:33:56,708 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2021-07-25 19:33:56,723 INFO o.a.j.JMeter: Copyright (c) 1998-2021 The Apache Software Foundation
+2021-07-25 19:33:56,724 INFO o.a.j.JMeter: Version 5.4.1
+2021-07-25 19:33:56,724 INFO o.a.j.JMeter: java.version=11.0.11
+2021-07-25 19:33:56,724 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2021-07-25 19:33:56,724 INFO o.a.j.JMeter: os.name=Windows 10
+2021-07-25 19:33:56,725 INFO o.a.j.JMeter: os.arch=amd64
+2021-07-25 19:33:56,725 INFO o.a.j.JMeter: os.version=10.0
+2021-07-25 19:33:56,725 INFO o.a.j.JMeter: file.encoding=Cp1252
+2021-07-25 19:33:56,725 INFO o.a.j.JMeter: java.awt.headless=null
+2021-07-25 19:33:56,725 INFO o.a.j.JMeter: Max memory     =2134900736
+2021-07-25 19:33:56,725 INFO o.a.j.JMeter: Available Processors =4
+2021-07-25 19:33:56,746 INFO o.a.j.JMeter: Default Locale=português (Brasil)
+2021-07-25 19:33:56,746 INFO o.a.j.JMeter: JMeter  Locale=português (Brasil)
+2021-07-25 19:33:56,746 INFO o.a.j.JMeter: JMeterHome=C:\Users\Hugo\Desktop\Projetos\Jmeter\apache-jmeter-5.4.1
+2021-07-25 19:33:56,746 INFO o.a.j.JMeter: user.dir  =C:\Users\Hugo\Desktop\Projetos\Jmeter\apache-jmeter-5.4.1\bin
+2021-07-25 19:33:56,747 INFO o.a.j.JMeter: PWD       =C:\Users\Hugo\Desktop\Projetos\Jmeter\apache-jmeter-5.4.1\bin
+2021-07-25 19:34:01,293 INFO o.a.j.JMeter: IP: 192.168.56.1 Name: HugoBot FullName: HugoBot
+2021-07-25 19:34:01,560 INFO o.a.j.JMeter: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2021-07-25 19:34:02,543 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
